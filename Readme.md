@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # ASPxGridView- Inline Edit - Display a custom error message in an edited row on the client
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4922/)**
+**[[Run Online]](https://codecentral.devexpress.com/128536290/)**
 <!-- run online end -->
 
 
