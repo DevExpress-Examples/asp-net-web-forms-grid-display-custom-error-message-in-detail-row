@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - Display a custom error message in a detail row on the client
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128536290/)**
-<!-- run online end -->
 
 This example demonstrates how to create a detail row template and add a label to the template to display an error message when the cell value is invalid.
 
