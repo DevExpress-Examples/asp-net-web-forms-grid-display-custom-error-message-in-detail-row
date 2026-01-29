@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Web
@@ -10,6 +9,7 @@ Imports DevExpress.Web.Data
 
 Partial Public Class _Default
 	Inherits System.Web.UI.Page
+
 	Protected Sub gv_HtmlRowCreated(ByVal sender As Object, ByVal e As ASPxGridViewTableRowEventArgs)
 		If e.RowType = GridViewRowType.Detail Then
 			e.Row.Attributes.Add("name", "errorArea")
