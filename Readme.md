@@ -68,7 +68,7 @@ Follow the steps below to display a custom error message in a detail row:
 * [Grid View Templates](https://docs.devexpress.com/AspNet/3718/components/grid-view/concepts/templates)
 * [Validate Grid Data](https://docs.devexpress.com/AspNet/3747/components/grid-view/concepts/edit-data/validate-grid-data)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-display-custom-error-message-in-detail-row&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-display-custom-error-message-in-detail-row&~~~was_helpful=no)
 
